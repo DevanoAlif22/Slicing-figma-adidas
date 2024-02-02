@@ -166,7 +166,6 @@ td {
 }
 @media (max-width: 768px) {
   .produk {
-    width: 70%; /* Ubah lebar menjadi 100% saat lebar layar di bawah 768px */
-    /* justify-content: center; */
+    width: 100%;
   }
 }
