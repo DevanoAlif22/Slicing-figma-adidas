@@ -1,137 +1,167 @@
 [
   {
-    "gambar": "assets/jersey/jersey1.png",
+    "id": 1,
+    "gambar": "../assets/jersey/jersey1.png",
     "warna": "Black",
     "jenis": "Jersey",
     "tipe": "Sepak Bola",
     "nama": "INTER MIAMI CF 23/24 AWAY JERSEY",
     "harga": "Rp. 1.400.000",
-    "Deskripsi": "When darkness descends, Miami lights up. Inspired by Magic City's glittering waterfront, this adidas Inter Miami CF away jersey enchants with pink details and an undulating graphic. Created to keep fans comfortable, it combines smooth fabric and moisture-managing AEROREADY. On the back, Messi's name and famous number conjure images of spellbinding football. This product is made with 100% recycled materials. By reusing materials that have already been created, we help to reduce waste and our reliance on finite resources and reduce the footprint of the products we make."
+    "hargaAsli": 1400000,
+    "deskripsi": "When darkness descends, Miami lights up. Inspired by Magic City's glittering waterfront, this adidas Inter Miami CF away jersey enchants with pink details and an undulating graphic. Created to keep fans comfortable, it combines smooth fabric and moisture-managing AEROREADY. On the back, Messi's name and famous number conjure images of spellbinding football. This product is made with 100% recycled materials. By reusing materials that have already been created, we help to reduce waste and our reliance on finite resources and reduce the footprint of the products we make."
   },
   {
-    "gambar": "assets/jersey/jersey2.png",
+    "id": 2,
+    "gambar": "../assets/jersey/jersey2.png",
     "warna": "Pink",
     "jenis": "Jersey",
     "tipe": "Sepak Bola",
     "nama": "INTER MIAMI CF 24/25 HOME JERSEY",
     "harga": "Rp. 1.300.000",
-    "Deskripsi": "When darkness descends, Miami lights up. Inspired by Magic City's glittering waterfront, this adidas Inter Miami CF away jersey enchants with pink details and an undulating graphic. Created to keep fans comfortable, it combines smooth fabric and moisture-managing AEROREADY. On the back, Messi's name and famous number conjure images of spellbinding football. This product is made with 100% recycled materials. By reusing materials that have already been created, we help to reduce waste and our reliance on finite resources and reduce the footprint of the products we make."
+    "hargaAsli": 1300000,
+    "deskripsi": "When darkness descends, Miami lights up. Inspired by Magic City's glittering waterfront, this adidas Inter Miami CF away jersey enchants with pink details and an undulating graphic. Created to keep fans comfortable, it combines smooth fabric and moisture-managing AEROREADY. On the back, Messi's name and famous number conjure images of spellbinding football. This product is made with 100% recycled materials. By reusing materials that have already been created, we help to reduce waste and our reliance on finite resources and reduce the footprint of the products we make."
   },
   {
-    "gambar": "assets/jersey/jersey3.png",
+    "id": 3,
+    "gambar": "../assets/jersey/jersey3.png",
     "warna": "Green",
     "jenis": "Jersey",
     "tipe": "Sepak Bola",
     "nama": "ARSENAL 23/24 THIRD JERSEY",
     "harga": "Rp. 1.200.000",
-    "Deskripsi": "A nod to the archives with a classic Arsenal look. From its simple embroidered cannon to the green and navy colorway, the Arsenal 23/24 Third Jersey represents a real blast from the Gunners' past. The ribbed henley collar and droptail hem finish the look in style.Cut for a slim fit, the jersey combines mesh inserts and sweat-wicking AEROREADY to keep you feeling dry. The ribbed henley collar and droptail hem finish the look in elevated style. Made with 100% recycled materials, this product represents just one of our solutions to help End Plastic Waste."
+    "hargaAsli": 1200000,
+    "deskripsi": "A nod to the archives with a classic Arsenal look. From its simple embroidered cannon to the green and navy colorway, the Arsenal 23/24 Third Jersey represents a real blast from the Gunners' past. The ribbed henley collar and droptail hem finish the look in style.Cut for a slim fit, the jersey combines mesh inserts and sweat-wicking AEROREADY to keep you feeling dry. The ribbed henley collar and droptail hem finish the look in elevated style. Made with 100% recycled materials, this product represents just one of our solutions to help End Plastic Waste."
   },
   {
-    "gambar": "assets/jersey/jersey4.png",
+    "id": 4,
+    "gambar": "../assets/jersey/jersey4.png",
     "warna": "Black",
     "jenis": "Jersey",
     "tipe": "Sepak Bola",
     "nama": "REAL MADRID 23/24 THIRD JERSEY",
     "harga": "Rp. 1.200.000",
-    "Deskripsi": "Football elegance. It's hard to describe, but you know it when you see it. A nod to Real Madrid's sparkling away performances, the Real Madrid 23/24 Third Jersey keeps things classy with a black base and embroidered 'RMCF' wording on the left side of the Henley collar. Sweat-wicking AEROREADY helps to keep you feeling dry, while mesh details add to the comfort for stellar performances on the pitch. Made with 100% recycled materials, this product represents just one of our solutions to help End Plastic Waste."
+    "hargaAsli": 1200000,
+    "deskripsi": "Football elegance. It's hard to describe, but you know it when you see it. A nod to Real Madrid's sparkling away performances, the Real Madrid 23/24 Third Jersey keeps things classy with a black base and embroidered 'RMCF' wording on the left side of the Henley collar. Sweat-wicking AEROREADY helps to keep you feeling dry, while mesh details add to the comfort for stellar performances on the pitch. Made with 100% recycled materials, this product represents just one of our solutions to help End Plastic Waste."
   },
   {
-    "gambar": "assets/jersey/jersey5.png",
+    "id": 5,
+    "gambar": "../assets/jersey/jersey5.png",
     "warna": "Red",
     "jenis": "Jersey",
     "tipe": "Sepak Bola",
     "nama": "JERSEY MANCHESTER UNITED HOME 23/24",
     "harga": "Rp. 1.300.000",
-    "Deskripsi": "Seperti sang klub, layaknya sang kota. Tunjukkan warna timmu dengan bangga menggunakan Jersey Manchester United Home Authentic 23/24. Jersey ini seakan membentuk rantai besi pada pengaruh Manchester yang berkelanjutan di seluruh dunia. Mengambil elemen desain dari jembatan terdekat di era Revolusi Industri, t-shirt ini dihiasi motif geometris berulang yang terinspirasi Lancashire Rose di bagian depan. HEAT.RDY yang menyejukkan dan detail tim yang ringan membuat jersey ini ideal untuk dipakai di lapangan — saat kamu bersiap untuk pertandingan internasional atau permainan lokal 5 lawan 5."
+    "hargaAsli": 1300000,
+    "deskripsi": "Seperti sang klub, layaknya sang kota. Tunjukkan warna timmu dengan bangga menggunakan Jersey Manchester United Home Authentic 23/24. Jersey ini seakan membentuk rantai besi pada pengaruh Manchester yang berkelanjutan di seluruh dunia. Mengambil elemen desain dari jembatan terdekat di era Revolusi Industri, t-shirt ini dihiasi motif geometris berulang yang terinspirasi Lancashire Rose di bagian depan. HEAT.RDY yang menyejukkan dan detail tim yang ringan membuat jersey ini ideal untuk dipakai di lapangan — saat kamu bersiap untuk pertandingan internasional atau permainan lokal 5 lawan 5."
   },
   {
-    "gambar": "assets/jersey/jersey6.png",
+    "id": 6,
+    "gambar": "../assets/jersey/jersey6.png",
     "warna": "White",
     "jenis": "Jersey",
     "tipe": "Sepak Bola",
     "nama": "JERSEY REAL MADRID HOME 23/24",
     "harga": "Rp. 1.200.000",
-    "Deskripsi": "Tradisi ini dihiasi sentuhan emas dalam Jersey Real Madrid Home 23/24. Mempertahankan warna dasar seluruhnya putih, kostum yang menawan ini meneruskan jahitan desain yang kuat, menghadirkan jersey stylish yang dipenuhi dengan sejarah sepak bola legendaris. Terinspirasi kostum yang lebih lampau, detail berwarna emas diperkenalkan kembali dan dipertegas dengan bingkai navy yang elegan. Motif menyeluruh menjadi pembaruan samar pada warna putih klasik, dilengkapi dengan pendekatan 'didesain untuk fans' yang mempertahankan fit dan sensasi siap untuk pemakaian sehari-hari yang stylish. AEROREADY yang menghilangkan keringat membantumu merasa nyaman saat berada di lapangan atau di tengah keramaian — sedangkan bordir emblem dan tulisan '¡Hala Madrid!' di bagian leher seakan menghidupkan mentalitas kemenangan sang klub."
+    "hargaAsli": 1200000,
+    "deskripsi": "Tradisi ini dihiasi sentuhan emas dalam Jersey Real Madrid Home 23/24. Mempertahankan warna dasar seluruhnya putih, kostum yang menawan ini meneruskan jahitan desain yang kuat, menghadirkan jersey stylish yang dipenuhi dengan sejarah sepak bola legendaris. Terinspirasi kostum yang lebih lampau, detail berwarna emas diperkenalkan kembali dan dipertegas dengan bingkai navy yang elegan. Motif menyeluruh menjadi pembaruan samar pada warna putih klasik, dilengkapi dengan pendekatan 'didesain untuk fans' yang mempertahankan fit dan sensasi siap untuk pemakaian sehari-hari yang stylish. AEROREADY yang menghilangkan keringat membantumu merasa nyaman saat berada di lapangan atau di tengah keramaian — sedangkan bordir emblem dan tulisan '¡Hala Madrid!' di bagian leher seakan menghidupkan mentalitas kemenangan sang klub."
   },
   {
-    "gambar": "assets/jersey/jersey6.png",
+    "id": 7,
+    "gambar": "../assets/jersey/jersey6.png",
     "warna": "White",
     "jenis": "Jersey",
     "tipe": "Sepak Bola",
     "nama": "JERSEY REAL MADRID HOME 23/24",
     "harga": "Rp. 1.200.000",
-    "Deskripsi": "Tradisi ini dihiasi sentuhan emas dalam Jersey Real Madrid Home 23/24. Mempertahankan warna dasar seluruhnya putih, kostum yang menawan ini meneruskan jahitan desain yang kuat, menghadirkan jersey stylish yang dipenuhi dengan sejarah sepak bola legendaris. Terinspirasi kostum yang lebih lampau, detail berwarna emas diperkenalkan kembali dan dipertegas dengan bingkai navy yang elegan. Motif menyeluruh menjadi pembaruan samar pada warna putih klasik, dilengkapi dengan pendekatan 'didesain untuk fans' yang mempertahankan fit dan sensasi siap untuk pemakaian sehari-hari yang stylish. AEROREADY yang menghilangkan keringat membantumu merasa nyaman saat berada di lapangan atau di tengah keramaian — sedangkan bordir emblem dan tulisan '¡Hala Madrid!' di bagian leher seakan menghidupkan mentalitas kemenangan sang klub."
+    "hargaAsli": 1200000,
+    "deskripsi": "Tradisi ini dihiasi sentuhan emas dalam Jersey Real Madrid Home 23/24. Mempertahankan warna dasar seluruhnya putih, kostum yang menawan ini meneruskan jahitan desain yang kuat, menghadirkan jersey stylish yang dipenuhi dengan sejarah sepak bola legendaris. Terinspirasi kostum yang lebih lampau, detail berwarna emas diperkenalkan kembali dan dipertegas dengan bingkai navy yang elegan. Motif menyeluruh menjadi pembaruan samar pada warna putih klasik, dilengkapi dengan pendekatan 'didesain untuk fans' yang mempertahankan fit dan sensasi siap untuk pemakaian sehari-hari yang stylish. AEROREADY yang menghilangkan keringat membantumu merasa nyaman saat berada di lapangan atau di tengah keramaian — sedangkan bordir emblem dan tulisan '¡Hala Madrid!' di bagian leher seakan menghidupkan mentalitas kemenangan sang klub."
   },
   {
-    "gambar": "assets/sepatu/sepatu1.png",
+    "id": 8,
+    "gambar": "../assets/sepatu/sepatu1.png",
     "warna": "Black",
     "jenis": "Sepatu",
     "tipe": "Lifetsyle",
     "nama": "SUPERSTAR SHOES",
     "harga": "Rp. 2.000.000",
-    "Deskripsi": "Throw it back in style. These iconic adidas Superstar shoes were ahead of their time when they first hit the streets in the '70s. Now they're back to show today's sneaker culture how it's done. Inspired by an adidas track suit that allowed for quick changes, the woven label on the tongue is a nod to '90s attitude. The smooth leather upper, shell toe and rubber sole still deliver sport-inspired style with everyday comfort. For over 50 years, the Superstar has been the shoe of choice for legends on courts and streets. Step into history."
+    "hargaAsli": 2000000,
+    "deskripsi": "Throw it back in style. These iconic adidas Superstar shoes were ahead of their time when they first hit the streets in the '70s. Now they're back to show today's sneaker culture how it's done. Inspired by an adidas track suit that allowed for quick changes, the woven label on the tongue is a nod to '90s attitude. The smooth leather upper, shell toe and rubber sole still deliver sport-inspired style with everyday comfort. For over 50 years, the Superstar has been the shoe of choice for legends on courts and streets. Step into history."
   },
   {
-    "gambar": "assets/sepatu/sepatu2.png",
+    "id": 9,
+    "gambar": "../assets/sepatu/sepatu2.png",
     "warna": "Blue/White",
     "jenis": "Sepatu",
     "tipe": "Basket",
     "nama": "FORUM MID SHOES",
     "harga": "Rp. 1.800.000",
-    "Deskripsi": "Whether you're having a casual day out or stepping up your style for an evening downtown, these adidas shoes are your go-to classic with a modern edge. The mix of full grain and synthetic leathers combine heritage details with a sleek silhouette, giving you street-smart looks as timeless as the shoes themselves."
+    "hargaAsli": 1800000,
+    "deskripsi": "Whether you're having a casual day out or stepping up your style for an evening downtown, these adidas shoes are your go-to classic with a modern edge. The mix of full grain and synthetic leathers combine heritage details with a sleek silhouette, giving you street-smart looks as timeless as the shoes themselves."
   },
   {
-    "gambar": "assets/sepatu/sepatu3.png",
+    "id": 10,
+    "gambar": "../assets/sepatu/sepatu3.png",
     "warna": "Blue/White/Black",
     "jenis": "Sepatu",
     "tipe": "Lifestyle",
     "nama": "SEPATU SUPERSTAR XLG",
     "harga": "Rp. 2.000.000",
-    "Deskripsi": "Ketika kamu mengira sepatu adidas Superstar tidak akan semakin berkarakter, sepatu ini mempertegas sepatu klasik era '70-an untuk fashion modern. Proporsi yang lebih besar dan karakter yang sama besarnya ditampakkan dengan 3-Stripes bergerigi yang ikonis. Upper berbahan sepenuhnya kulit mempertahankan ciri dasar klasik sekaligus mengkreasikan ulang desainnya agar tetap fresh. Melangkah dengan percaya ketika memakai shell toe menjadi andalanmu."
+    "hargaAsli": 2000000,
+    "deskripsi": "Ketika kamu mengira sepatu adidas Superstar tidak akan semakin berkarakter, sepatu ini mempertegas sepatu klasik era '70-an untuk fashion modern. Proporsi yang lebih besar dan karakter yang sama besarnya ditampakkan dengan 3-Stripes bergerigi yang ikonis. Upper berbahan sepenuhnya kulit mempertahankan ciri dasar klasik sekaligus mengkreasikan ulang desainnya agar tetap fresh. Melangkah dengan percaya ketika memakai shell toe menjadi andalanmu."
   },
   {
-    "gambar": "assets/sepatu/sepatu4.png",
+    "id": 11,
+    "gambar": "../assets/sepatu/sepatu4.png",
     "warna": "Yellow/White",
     "jenis": "Sepatu",
     "tipe": "Lifestyle",
     "nama": "FORUM LOW X THE GRINCH SHOES",
     "harga": "Rp. 2.000.000",
-    "Deskripsi": "Ketika kamu mengira sepatu adidas Superstar tidak akan semakin berkarakter, sepatu ini mempertegas sepatu klasik era '70-an untuk fashion modern. Proporsi yang lebih besar dan karakter yang sama besarnya ditampakkan dengan 3-Stripes bergerigi yang ikonis. Upper berbahan sepenuhnya kulit mempertahankan ciri dasar klasik sekaligus mengkreasikan ulang desainnya agar tetap fresh. Melangkah dengan percaya ketika memakai shell toe menjadi andalanmu."
+    "hargaAsli": 2000000,
+    "deskripsi": "Ketika kamu mengira sepatu adidas Superstar tidak akan semakin berkarakter, sepatu ini mempertegas sepatu klasik era '70-an untuk fashion modern. Proporsi yang lebih besar dan karakter yang sama besarnya ditampakkan dengan 3-Stripes bergerigi yang ikonis. Upper berbahan sepenuhnya kulit mempertahankan ciri dasar klasik sekaligus mengkreasikan ulang desainnya agar tetap fresh. Melangkah dengan percaya ketika memakai shell toe menjadi andalanmu."
   },
   {
-    "gambar": "assets/sepatu/sepatu5.png",
+    "id": 12,
+    "gambar": "../assets/sepatu/sepatu5.png",
     "warna": "White",
     "jenis": "Sepatu",
     "tipe": "Lifestyle",
     "nama": "SEPATU SAMBA OG",
     "harga": "Rp. 2.000.000",
-    "Deskripsi": "Diciptakan untuk sepak bola indoor, Samba menjadi ikon street style yang tak lekang oleh waktu. Sepatu ini tetap mempertahankan warisannya dengan upper kulit lembut dan overlay berbahan suede."
+    "hargaAsli": 2000000,
+    "deskripsi": "Diciptakan untuk sepak bola indoor, Samba menjadi ikon street style yang tak lekang oleh waktu. Sepatu ini tetap mempertahankan warisannya dengan upper kulit lembut dan overlay berbahan suede."
   },
   {
-    "gambar": "assets/sepatu/sepatu6.png",
+    "id": 13,
+    "gambar": "../assets/sepatu/sepatu6.png",
     "warna": "Black",
     "jenis": "Sepatu",
     "tipe": "Lifestyle",
     "nama": "S2G SPIKELESS 24 WIDE GOLF SHOES",
     "harga": "Rp. 1.900.000",
-    "Deskripsi": "Lace up all-day comfort for social rounds and beyond. Inspired by the lightweight, responsive feel of a running shoe, these spikeless golf shoes offer a solid stance and all-day, anywhere style. The waterproof upper and protective toe cap keep feet dry through damp greens, and the spikeless Adiwear outsole and supportive heel cup provide the stability and traction for a strong stance while making for easy transitions off the course. Lightweight cushioning from heel to toe and a wide fit feel great all day long. By choosing recycled, we are able to reuse materials that have already been created, which helps to reduce waste. Renewable materials choices will help us to remove our reliance on finite resources. Our products made with a blend of recycled and renewable materials feature at least 20% total of these materials."
+    "hargaAsli": 1900000,
+    "deskripsi": "Lace up all-day comfort for social rounds and beyond. Inspired by the lightweight, responsive feel of a running shoe, these spikeless golf shoes offer a solid stance and all-day, anywhere style. The waterproof upper and protective toe cap keep feet dry through damp greens, and the spikeless Adiwear outsole and supportive heel cup provide the stability and traction for a strong stance while making for easy transitions off the course. Lightweight cushioning from heel to toe and a wide fit feel great all day long. By choosing recycled, we are able to reuse materials that have already been created, which helps to reduce waste. Renewable materials choices will help us to remove our reliance on finite resources. Our products made with a blend of recycled and renewable materials feature at least 20% total of these materials."
   },
   {
-    "gambar": "assets/celana/celana1.png",
+    "id": 14,
+    "gambar": "../assets/celana/celana1.png",
     "warna": "Gray",
     "jenis": "Celana",
     "tipe": "Lifestyle",
     "nama": "CELANA PENDEK ESSENTIALS SINGLE JERSE",
     "harga": "Rp. 550.000",
-    "Deskripsi": "Kamu memerlukan pakaian esensial yang tidak hanya mengikuti gaya hidup kamu yang aktif, namun juga menunjang gaya hidup Anda. Celana pendek adidas ini menjadi jawabannya. Apa pun tempo larinya, nuansa, atau modenya, celana pendek ini selalu menemanimu untuk membuat kamu tetap merasa nyaman. Paduan bahan katun yang lembut terasa lembut di kulit. AEOREADY yang menyerap kelembapan membantu menyesuaikan panas dengan membuatmu tetap kering.Minimum 70% dari produk ini merupakan campuran material daur ulang dan terbarukan."
+    "hargaAsli": 550000,
+    "deskripsi": "Kamu memerlukan pakaian esensial yang tidak hanya mengikuti gaya hidup kamu yang aktif, namun juga menunjang gaya hidup Anda. Celana pendek adidas ini menjadi jawabannya. Apa pun tempo larinya, nuansa, atau modenya, celana pendek ini selalu menemanimu untuk membuat kamu tetap merasa nyaman. Paduan bahan katun yang lembut terasa lembut di kulit. AEOREADY yang menyerap kelembapan membantu menyesuaikan panas dengan membuatmu tetap kering.Minimum 70% dari produk ini merupakan campuran material daur ulang dan terbarukan."
   },
   {
-    "gambar": "assets/celana/celana2.png",
+    "id": 15,
+    "gambar": "../assets/celana/celana2.png",
     "warna": "Black",
     "jenis": "Celana",
     "tipe": "Lifestyle",
     "nama": "ESSENTIALS SINGLE JERSEY TAPERED OPEN",
     "harga": "Rp. 700.000",
-    "Deskripsi": "Stripes for life. Wear these adidas essential pants to show your connection to a global community. Their single jersey cotton blend delivers a soft feel whether you're walking the dog, kicking a ball at the park or barbecuing in the backyard. Moisture-absorbing AEROREADY keeps you dry.Our cotton products support sustainable cotton farming. This product is also made with recycled content as part of our ambition to end plastic waste."
+    "hargaAsli": 700000,
+    "deskripsi": "Stripes for life. Wear these adidas essential pants to show your connection to a global community. Their single jersey cotton blend delivers a soft feel whether you're walking the dog, kicking a ball at the park or barbecuing in the backyard. Moisture-absorbing AEROREADY keeps you dry.Our cotton products support sustainable cotton farming. This product is also made with recycled content as part of our ambition to end plastic waste."
   }
 ]

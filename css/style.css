@@ -15,6 +15,10 @@
   margin-right: 25%;
 }
 
+.border-bottom {
+  border-bottom: 3px solid black !important;
+  border-radius: 2px;
+}
 .nav-menu h6 {
   font-weight: bold;
   cursor: pointer;
@@ -67,9 +71,93 @@
   border: none;
 }
 
+#produk-container a {
+  color: black;
+  text-decoration: none;
+}
+
+/* detail image */
+.detail-image {
+  padding-top: 15px;
+  width: 60%;
+}
+
+.detail-image img {
+  width: 70%;
+}
+.deskripsi {
+  padding-top: 15px;
+  width: 40%;
+}
+
+.add-cards {
+  margin-top: 15px;
+  width: 250px;
+  height: 50px;
+  background-color: black;
+  border: none;
+  color: white;
+}
+
+.add-cards:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+
+#container-detail {
+  display: flex;
+  padding-bottom: 30px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+thead {
+  background-color: #f2f2f2;
+}
+
+th,
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+#total-harga {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.bayar {
+  width: 100px;
+  border: none;
+  background-color: black;
+  color: white;
+  height: 30px;
+}
+
 @media (max-width: 1300px) {
   .produk {
     width: 40%; /* Ubah lebar menjadi 100% saat lebar layar di bawah 768px */
+  }
+
+  .detail-image {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .deskripsi {
+    width: 100%;
+    padding: 10px;
+  }
+  #container-detail {
+    display: flex;
+    flex-direction: column;
   }
 
   .container-produk {
